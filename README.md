@@ -6,3 +6,5 @@ cd pythonWebApp
 
 sudo docker-compose up 
 
+
+link to app docker image: https://hub.docker.com/repository/docker/malvinapap/app
