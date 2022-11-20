@@ -1,4 +1,4 @@
-# Steps to create the 2 containers 
+# CMD commands to create the 2 containers 
 
 git clone https://github.com/MalvinaPap/pythonWebApp
 
